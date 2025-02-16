@@ -2,7 +2,8 @@
 print("Primer comentario Camilo.")
 print("No, hoy es domingo")
 print("Soy Alan y yo Camilo jeje")
-print("El mejor fibonacci")
+print("El mejor fiboi")
+print("Camilo lindo ")
 
 def fibonacci_iterativo(n):
     #Casos base
@@ -14,7 +15,7 @@ def fibonacci_iterativo(n):
         return [0, 1]
     #Si no hay casos base, pasa a generar la sucesión
     fib = [0, 1]
-    for i in range(2, n):
+    for i in range(1, n):
         fib.append(fib[-1] + fib[-2])
     return fib
 
