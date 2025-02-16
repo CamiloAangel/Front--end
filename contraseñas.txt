@@ -1,0 +1,15 @@
+buscar en git ignore.io 
+crear readme.md
+no se suben las librerias, solo se suben un listado de ellas.
+
+Para guardar cambios
+1 git add.  tomar foto
+2. git commit "Mensaje"
+3 git push sube cambios a la nube
+volver a versiones anteriores con hard y soft git reset numero y --soft 
+git add.
+git commit -m "Mensaje"
+git commit push 
+
+clonar repositorios git clone link 
+juntar código, toca volver a hacer un commit y subir despues de rejuntar. 
